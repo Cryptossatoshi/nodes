@@ -246,8 +246,8 @@ EOT"
         echo -e "${YELLOW}Команда для проверки логов:${NC}" 
         echo "sudo journalctl -u blockmesh -f"
         echo -e "${PURPLE}-----------------------------------------------------------------------${NC}"
-        echo -e "${GREEN}CRYPTO FORTOCHKA — вся крипта в одном месте!${NC}"
-        echo -e "${CYAN}Наш Telegram https://t.me/cryptoforto${NC}"
+        echo -e "${GREEN}cryptossatoshi${NC}"
+        echo -e "${CYAN}Наш Telegram https://t.me/cryptossatoshi${NC}"
         sleep 2
 
         # Проверка логов
