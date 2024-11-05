@@ -17,7 +17,7 @@ fi
 sleep 1
 
 # Отображаем логотип
-# curl -s https://raw.githubusercontent.com/Cryptossatoshi/nodes/main/logo_Cryptossatoshi.sh | bash
+curl -s https://raw.githubusercontent.com/Cryptossatoshi/nodes/main/logo_Cryptossatoshi.sh | bash
 
 # Проверка наличия bc и установка, если не установлен
 echo -e "${BLUE}Проверяем версию вашей OS...${NC}"
